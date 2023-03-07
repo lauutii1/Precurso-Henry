@@ -1,2 +1,2 @@
-# Precurso-Henry
-Modulo 2 del curso de henry
+Este proyecto es una prueba de como crear un repositorio de github y clonarlo a mi pc
+
